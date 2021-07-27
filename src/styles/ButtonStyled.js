@@ -1,8 +1,8 @@
 import styled from 'styled-components';
 
 const ButtonStyled= styled.button`
-  background: papayawhip;
-  color: purple;
+  background: skyblue;
+  color: white;
   text-align: center;
   padding: 10px;
   margin:15px;
